@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Conta Bancária</string>
+    <string name="radio_conta_poupanca">Conta Poupança</string>
+    <string name="radio_conta_especial">Conta Especial</string>
+    <string name="hint_valor">Valor</string>
+    <string name="button_sacar">Sacar</string>
+    <string name="button_depositar">Depositar</string>
+    <string name="button_calcular_rendimento">Calcular Rendimento</string>
+    <string name="button_mostrar_dados">Mostrar Dados da Conta</string>
+    <string name="resultado">Resultado</string>
+
+    <string name="mensagem_saque_sucesso">Saque realizado com sucesso!</string>
+    <string name="mensagem_saldo_insuficiente">Saldo insuficiente!</string>
+    <string name="mensagem_deposito_sucesso">Depósito realizado com sucesso!</string>
+    <string name="mensagem_rendimento_calculado">Rendimento calculado para Conta Poupança!</string>
+    <string name="mensagem_sem_rendimento">Conta Especial não possui rendimento.</string>
+</resources>
